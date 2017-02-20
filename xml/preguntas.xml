@@ -3,7 +3,7 @@
 <!DOCTYPE questions>
 
 <!-- Preguntas sobre videojuegos -->
-<questions>
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="preguntas.xsd">
 
    	<question id="jklm_001">
 		<type>radio</type>
