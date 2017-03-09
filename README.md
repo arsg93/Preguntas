@@ -5,30 +5,30 @@
 * 	Debemos hacer una web de una universidad inventada, en mi caso, la cual presenta un formulario.
 * Previsualización: https://cdn.rawgit.com/arsg93/Preguntas/a868ff7c/index.html
 # CONTENIDO DEL PROYECTO
->HTML
+##HTML
 * 	index.html: Estructura de la web.
->CSS
+##CSS
 * 	d.css: Modo horizontal
 * 	m.css: Modo vertical
 * 	El cambio de css a otro lo realiza mediante media query dependiendo del tamaño de la pantalla.
->JS
+##JS
 * 	js.js: Se encuentran todas las funcionalidades para el correcto funcionamiento de la página, como extraer los datos del XML, la corrección, etc.
->IMG
+##IMG
 * 	Conjunto de imágenes usadas para la web.
->XML
+##XML
 * 	preguntas.xml: Documento .xml donde se encuentra toda la información del formulario
 # Funcionalidades adicionales principales
->PÁGINA PRINCIPAL: La web empieza en una primera pantalla donde podemos encontrar lo siguiente:
+##PÁGINA PRINCIPAL: La web empieza en una primera pantalla donde podemos encontrar lo siguiente:
 *  	La escuela: Breve introducción sobre la universidad.
 * 	Normas Test: Se oculta la introducción de la universidad y se muestran las normas del test, si se vuelve a pulsar vuelve a aparecer la introducción.
 *	Realizar Test: Botón que permite al usuario empezar el test cuando se encuentre preparado.
->ASEGURARSE.
+##ASEGURARSE.
 *	Al pulsar cualquier botón critico aparecerá si estás seguro.
 *	En caso de que falte alguna pregunta por contestar se avisará al usuario cual y se hará focus sobre ella.
 # Funcionalidades adicionales secundarias
->ANIMACIONES / HOVER
+##ANIMACIONES / HOVER
 *	Hover en botones y respuestas de las preguntas.
->SCROLL PARA MOSTRAR LA CORRECCIÓN
+##SCROLL PARA MOSTRAR LA CORRECCIÓN
 *	La corrección se muestra al inicio de la página, y para mayor comodidad para el usuario se realiza automáticamente un scroll por javascript hasta el inicio de la página.
->REGRESAR A LA PÁGINA PRINCIPAL
+##REGRESAR A LA PÁGINA PRINCIPAL
 *	Una vez realizado el test y mostrada la corrección el test, en la propia corrección aparece un nuevo botón para volver a la pantalla principal.
