@@ -4,6 +4,7 @@
 * 	Codifica JavaScript para dar una solución automatizada al examen (activar compara las respuestas introducidas en el formulario con las respuestas que hay en el archivo XML preguntes.xml)
 * 	Debemos hacer una web de una universidad inventada, en mi caso, la cual presenta un formulario.
 * Previsualización: https://cdn.rawgit.com/arsg93/Preguntas/a868ff7c/index.html
+
 # CONTENIDO DEL PROYECTO
 ##HTML
 * 	index.html: Estructura de la web.
@@ -17,6 +18,7 @@
 * 	Conjunto de imágenes usadas para la web.
 ##XML
 * 	preguntas.xml: Documento .xml donde se encuentra toda la información del formulario
+
 # Funcionalidades adicionales principales
 ##PÁGINA PRINCIPAL: La web empieza en una primera pantalla donde podemos encontrar lo siguiente:
 *  	La escuela: Breve introducción sobre la universidad.
@@ -25,6 +27,7 @@
 ##ASEGURARSE.
 *	Al pulsar cualquier botón critico aparecerá si estás seguro.
 *	En caso de que falte alguna pregunta por contestar se avisará al usuario cual y se hará focus sobre ella.
+
 # Funcionalidades adicionales secundarias
 ##ANIMACIONES / HOVER
 *	Hover en botones y respuestas de las preguntas.
