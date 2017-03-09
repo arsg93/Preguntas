@@ -518,7 +518,7 @@ function presentarNota() {
 
 function inicializar() {
   document.getElementById('resultado').innerHTML = "";
-  
+
   nota = 0.0;
 }
 
