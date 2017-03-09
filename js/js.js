@@ -50,7 +50,7 @@ window.onload = function () {
       gestionarXml(this);
     }
   };
-  xhttp.open("GET", "https://rawgit.com/arsg93/Preguntas/master/xml/preguntas.xml", true);
+  xhttp.open("GET", "../xml/preguntas.xml", true);
   xhttp.send();
 }
 
