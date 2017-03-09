@@ -3,7 +3,7 @@
 * 	Crea un archivo XML que contenga el texto de las preguntas, las respuestas correctas y la información que creas necesaria (preguntes.xml)
 * 	Codifica JavaScript para dar una solución automatizada al examen (activar compara las respuestas introducidas en el formulario con las respuestas que hay en el archivo XML preguntes.xml)
 * 	Debemos hacer una web de una universidad inventada, en mi caso, la cual presenta un formulario.
-* Previsualización: https://cdn.rawgit.com/arsg93/Preguntas/a868ff7c/index.html
+* Previsualización: https://rawgit.com/arsg93/Preguntas/master/index.html
 * Versión Indent en el branch master,  la versión minify se en cuentra en el branch minify.
 
 # CONTENIDO DEL PROYECTO
