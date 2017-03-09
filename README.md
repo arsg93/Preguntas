@@ -25,7 +25,7 @@
 
 # Funcionalidades adicionales principales
 ##PÁGINA PRINCIPAL: 
-*La web empieza en una primera pantalla donde podemos encontrar lo siguiente:
+*   La web empieza en una primera pantalla donde podemos encontrar lo siguiente:
 *  	La escuela: Breve introducción sobre la universidad.
 * 	Normas Test: Se oculta la introducción de la universidad y se muestran las normas del test, si se vuelve a pulsar vuelve a aparecer la introducción.
 *	Realizar Test: Botón que permite al usuario empezar el test cuando se encuentre preparado.
