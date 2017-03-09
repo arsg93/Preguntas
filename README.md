@@ -8,14 +8,18 @@
 # CONTENIDO DEL PROYECTO
 ##HTML
 * 	index.html: Estructura de la web.
+
 ##CSS
 * 	d.css: Modo horizontal
 * 	m.css: Modo vertical
 * 	El cambio de css a otro lo realiza mediante media query dependiendo del tamaño de la pantalla.
+
 ##JS
 * 	js.js: Se encuentran todas las funcionalidades para el correcto funcionamiento de la página, como extraer los datos del XML, la corrección, etc.
+
 ##IMG
 * 	Conjunto de imágenes usadas para la web.
+
 ##XML
 * 	preguntas.xml: Documento .xml donde se encuentra toda la información del formulario
 
